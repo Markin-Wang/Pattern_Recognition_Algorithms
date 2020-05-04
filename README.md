@@ -16,3 +16,4 @@ Methods Implemented:
 13.Extreme Learning
 14.Sparse Coding
 15.Adaptive Boost (Not formal)
+16.SVM
