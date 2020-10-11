@@ -1,6 +1,6 @@
-# Pattern_Recognition
+# Pattern_Recognition Algorithms
 Very simplified implementation of some traditional algorithms in PR.
-Just for those preparing their exams.
+Just help those taking the relevant modules better understand the algorithms.
 Methods Implemented:
 1.Linear discriminant function
 2.Batch Perceptron Learning algorithm
